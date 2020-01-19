@@ -1,8 +1,6 @@
 # PseNet_tensorflow
-
-#说明
-
-    本代码是为PSENET检测网络的tensorflow版本。代码主要参考了以下链接的代码：
+# 说明:
+    本代码是为PSENET检测网络的tensorflow版本。代码主要参考了以下链接的代码：<br>
     链接一：https://github.com/whai362/PSENet
     链接二：https://github.com/looput/PSENet-Tensorflow
     链接一为原始链接，主要使用pytorch实现；链接二为tensorflow版本的代码。相比较两个链接的版本，通过本人使用和测试发现，链接一pytorch的效果略优于链接二tensorflow。
