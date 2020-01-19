@@ -8,5 +8,17 @@
 
 ## 注意：
 本代码目前只能实现训练模块(psenet_train.py)，在测试模块(psenet_test.py)一直有 Bug。
-测试模块的主要问题为，训练的模型无法很好的识别出box，对于该问题，本人目前也很懵逼。但是训练模型一切正常。
+测试模块的主要问题为，训练的模型无法很好的识别出box，对于该问题，本人目前也很懵逼。但是训练模块一切正常。
 对于这个问题，诸位大佬也可以帮忙看看是什么问题，并加以改正，小弟不胜感激（哭）
+
+## Data
+以下为代码训练所使用的训练数据：
+链接：https://pan.baidu.com/s/1IRc-FAhb7cXmsycjAmO1cw  提取码：k8je 
+
+## 模型
+链接：https://pan.baidu.com/s/1zk6P5-LUGCB66vJPfouJGQ  提取码：l1ls 
+注：kernaels = 3
+
+## 训练细节
+
+![image]()
