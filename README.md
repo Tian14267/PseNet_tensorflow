@@ -3,7 +3,7 @@
 本代码是为PSENET检测网络的tensorflow版本。代码主要参考了以下链接的代码：<br>
 链接一：https://github.com/whai362/PSENet <br>
 链接二：https://github.com/looput/PSENet-Tensorflow <br>
-链接一为原始链接，主要使用pytorch实现；链接二为tensorflow版本的代码。相比较两个链接的版本，通过本人使用和测试发现，链接一pytorch的效果略优于链接二tensorflow。<br>
+链接一为原始链接，主要使用pytorch实现；链接二为tensorflow版本的代码。相比较两个链接的版本，通过本人使用和测试发现，链接一的pytorch效果略优于链接二tensorflow。<br>
 对于链接二，本人感觉其代码写的较为复杂，阅读学习性不太高（主要还是本人太菜），于是在这里改了一个简易版本的 Psenet_tensorflow
 
 ## 注意：
@@ -12,8 +12,13 @@
 对于这个问题，诸位大佬也可以帮忙看看是什么问题，并加以改正，小弟不胜感激（哭）
 
 ## Data
-以下为代码训练所使用的训练数据：
+训练数据为 ICPR 数据集，本文这里也公开所用到的数据集。<br>
+以下为训练所使用的训练数据：<br>
 链接：https://pan.baidu.com/s/1IRc-FAhb7cXmsycjAmO1cw  提取码：k8je 
+
+## 环境
+    python3
+    tensorflow 1.14.0
 
 ## 模型
 链接：https://pan.baidu.com/s/1zk6P5-LUGCB66vJPfouJGQ  提取码：l1ls <br>
