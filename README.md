@@ -22,7 +22,7 @@
 
 ## 模型
 链接：https://pan.baidu.com/s/1zk6P5-LUGCB66vJPfouJGQ  提取码：l1ls <br>
-注：kernaels = 3
+注：kernels = 3
 
 ## 训练细节
 
