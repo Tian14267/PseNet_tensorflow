@@ -1,6 +1,6 @@
 # PseNet_tensorflow
-# 说明:
-本代码是为PSENET检测网络的tensorflow版本。代码主要参考了以下链接的代码：<br>
+# 说明
+本代码是为PSENET检测网络的tensorflow版本。主要供学习该算法使用。代码主要参考了以下链接的代码：<br>
 链接一：https://github.com/whai362/PSENet <br>
 链接二：https://github.com/looput/PSENet-Tensorflow <br>
 链接一为原始链接，主要使用pytorch实现；链接二为tensorflow版本的代码。相比较两个链接的版本，通过本人使用和测试发现，链接一的pytorch效果略优于链接二tensorflow。<br>
@@ -27,3 +27,6 @@
 ## 训练细节
 
 ![image](https://github.com/Tian14267/PseNet_tensorflow/blob/master/Images/qqq.png)
+
+# 结言
+本文的代码目前还缺乏测试模块。如果有小伙伴完善了该模块，希望留言告知，不胜感激...
