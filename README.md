@@ -21,4 +21,4 @@
 
 ## 训练细节
 
-![image]()
+![image](https://github.com/Tian14267/PseNet_tensorflow/blob/master/Images/82Q%7BXB%7DQ5%405D%5B7%5DHSW%241~EU.png)
