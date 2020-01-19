@@ -16,7 +16,7 @@
 链接：https://pan.baidu.com/s/1IRc-FAhb7cXmsycjAmO1cw  提取码：k8je 
 
 ## 模型
-链接：https://pan.baidu.com/s/1zk6P5-LUGCB66vJPfouJGQ  提取码：l1ls 
+链接：https://pan.baidu.com/s/1zk6P5-LUGCB66vJPfouJGQ  提取码：l1ls <br>
 注：kernaels = 3
 
 ## 训练细节
