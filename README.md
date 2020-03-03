@@ -6,11 +6,6 @@
 链接一为原始链接，主要使用pytorch实现；链接二为tensorflow版本的代码。相比较两个链接的版本，通过本人使用和测试发现，链接一的pytorch效果略优于链接二tensorflow。<br>
 对于链接二，本人感觉其代码写的较为复杂，阅读学习性不太高（主要还是本人太菜），于是在这里改了一个简易版本的 Psenet_tensorflow
 
-## 注意：
-本代码目前只能实现训练模块(psenet_train.py)，在测试模块(psenet_test.py)一直有 Bug。
-测试模块的主要问题为，训练的模型无法很好的识别出box，对于该问题，本人目前也很懵逼。但是训练模块一切正常。
-对于这个问题，诸位大佬也可以帮忙看看是什么问题，并加以改正，小弟不胜感激（哭）
-
 ## Data
 训练数据为 ICPR 数据集，本文这里也公开所用到的数据集。<br>
 以下为训练所使用的训练数据：<br>
@@ -20,13 +15,18 @@
     python3
     tensorflow 1.14.0
 
-## 模型
-链接：https://pan.baidu.com/s/1zk6P5-LUGCB66vJPfouJGQ  提取码：l1ls <br>
+## 模型链接
+链接：https://pan.baidu.com/s/1fRhuXWRfhsOT5FrhDBNV4g  提取码：pxuw <br>
 注：kernels = 3
 
 ## 训练细节
+![image](https://github.com/Tian14267/PseNet_tensorflow/blob/master/Images/QQ.png)
 
-![image](https://github.com/Tian14267/PseNet_tensorflow/blob/master/Images/qqq.png)
+## 测试结果展示
+![image](https://github.com/Tian14267/PseNet_tensorflow/blob/master/Images/Image_OUT/img_0.jpg)
+
+![image](https://github.com/Tian14267/PseNet_tensorflow/blob/master/Images/Image_OUT/img_5.jpg)
 
 # 结言
-本文的代码目前还缺乏测试模块。如果有小伙伴完善了该模块，希望留言告知，不胜感激...
+目前本文的代码较上面列出的两个链接代码，其效果略有不足，毕竟本人能力有限。
+故该代码可用作理解学习
