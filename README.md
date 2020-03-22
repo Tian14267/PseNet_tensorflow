@@ -1,10 +1,10 @@
 # PseNet_tensorflow
 # 说明
-本代码是为PSENET检测网络的tensorflow版本。主要供学习该算法使用。代码主要参考了以下链接的代码：<br>
+本代码是为PSENET检测网络的tensorflow版本。主要仅供学习该算法使用。代码主要参考了以下链接的代码：<br>
 链接一：https://github.com/whai362/PSENet <br>
 链接二：https://github.com/looput/PSENet-Tensorflow <br>
 链接一为原始链接，主要使用pytorch实现；链接二为tensorflow版本的代码。相比较两个链接的版本，通过本人使用和测试发现，链接一的pytorch效果略优于链接二tensorflow。<br>
-对于链接二，本人感觉其代码写的较为复杂，阅读学习性不太高（主要还是本人太菜），于是在这里改了一个简易版本的 Psenet_tensorflow
+对于链接二，本人感觉其代码写的较为复杂，阅读学习性不太高，于是在这里改了一个简易版本的 Psenet_tensorflow
 
 ## Data
 训练数据为 ICPR 数据集，本文这里也公开所用到的数据集。<br>
@@ -27,6 +27,4 @@
 
 ![image](https://github.com/Tian14267/PseNet_tensorflow/blob/master/Images/Image_OUT/img_5.jpg)
 
-# 结言
-目前本文的代码较上面列出的两个链接代码，其效果略有不足，毕竟本人能力有限。
-故该代码可用作理解学习
+
